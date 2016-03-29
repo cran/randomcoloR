@@ -1,0 +1,8 @@
+a85e1c2ef55ed558c01e1f358c2f6e74 *DESCRIPTION
+80ae9dadc85ee92fcc1d6b194246abb7 *NAMESPACE
+ebe2827eecd35f31f4aa71ccca4abc71 *R/onLoad.R
+e53b75117405aeb77d6e6699f6412482 *R/randomcolor.R
+ae38896ba3df12a5086c10275cdfda31 *README.md
+3cc905bc989d35f9b7344d5ae9a765ae *inst/js/randomColor.js
+e81741e7bb5eaa81cd6f0db5317a6add *man/distinctColorPalette.Rd
+73e866786013ed1229ae70e41d484180 *man/randomColor.Rd
