@@ -1,8 +1,8 @@
-a85e1c2ef55ed558c01e1f358c2f6e74 *DESCRIPTION
-80ae9dadc85ee92fcc1d6b194246abb7 *NAMESPACE
-ebe2827eecd35f31f4aa71ccca4abc71 *R/onLoad.R
-e53b75117405aeb77d6e6699f6412482 *R/randomcolor.R
-ae38896ba3df12a5086c10275cdfda31 *README.md
+63ff97d8367ce5bb076ab01d91f4b548 *DESCRIPTION
+e9654b302e69322450b35e26fdf1709b *NAMESPACE
+a8b7a2d9f13fd8e074deeff0a4dd3868 *NEWS
+b14201e03e1897b375452953b930f0ef *R/onLoad.R
+fba39ca5523bdb1c9721b4c896b13dcd *R/randomcolor.R
 3cc905bc989d35f9b7344d5ae9a765ae *inst/js/randomColor.js
-e81741e7bb5eaa81cd6f0db5317a6add *man/distinctColorPalette.Rd
-73e866786013ed1229ae70e41d484180 *man/randomColor.Rd
+95cd203b5ae9b9e47c85672774bdc40f *man/distinctColorPalette.Rd
+10a41d693f2453deae9c9029f53e316d *man/randomColor.Rd

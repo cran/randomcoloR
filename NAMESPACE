@@ -2,8 +2,12 @@
 
 export(distinctColorPalette)
 export(randomColor)
+import(Rtsne)
 import(V8)
+import(cluster)
 import(colorspace)
+import(grDevices)
 import(methods)
+import(scales)
 import(stats)
 import(stringr)
