@@ -42,7 +42,8 @@ randomColor <- function(count=1,
 distinctColorPalette <-function(k=1, altCol=FALSE, runTsne=FALSE) {
   currentColorSpace <- ourColorSpace@coords
   if (altCol) {
-    currentColorSpace <- alternateColorSpace
+    stop("altCol TRUE is not currently supported")
+###    currentColorSpace <- alternateColorSpace
   }
 
   if (runTsne) {

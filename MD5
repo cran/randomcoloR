@@ -1,8 +1,8 @@
-63ff97d8367ce5bb076ab01d91f4b548 *DESCRIPTION
+be7724977908337433f6cbb1f67def30 *DESCRIPTION
 e9654b302e69322450b35e26fdf1709b *NAMESPACE
 a8b7a2d9f13fd8e074deeff0a4dd3868 *NEWS
-b14201e03e1897b375452953b930f0ef *R/onLoad.R
-fba39ca5523bdb1c9721b4c896b13dcd *R/randomcolor.R
+b6eed897031972f8f9c6cecfcb04af4e *R/onLoad.R
+21a7dc391923c51b1be8aa9e9ad7243f *R/randomcolor.R
 3cc905bc989d35f9b7344d5ae9a765ae *inst/js/randomColor.js
 95cd203b5ae9b9e47c85672774bdc40f *man/distinctColorPalette.Rd
 10a41d693f2453deae9c9029f53e316d *man/randomColor.Rd
